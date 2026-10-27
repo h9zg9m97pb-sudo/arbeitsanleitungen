@@ -1,0 +1,114 @@
+{
+  "version": 1,
+  "guides": [
+    {
+      "title": "User entsperren",
+      "steps": [
+        "SU 01"
+      ]
+    },
+    {
+      "title": "Wer hat kommissioniert",
+      "steps": [
+        "Lancieren",
+        "IM10",
+        "MFS Nummer eingeben",
+        "Ausfüllen",
+        "Anklicken",
+        "Lagerauftrag"
+      ]
+    },
+    {
+      "title": "Leere Kanäle",
+      "steps": [
+        "IL60",
+        "Nachschubtyp – WMSD",
+        "Ausführen (keine Haken)",
+        "Layouts verwalten",
+        "Layout auswählen",
+        "SDA Nachschub"
+      ]
+    },
+    {
+      "title": "SK",
+      "steps": [
+        "DA40",
+        "Scannen",
+        "F8",
+        "Enter"
+      ]
+    },
+    {
+      "title": "Fehler bei Auftrag",
+      "steps": [
+        "Lagerverwaltungsmonitor",
+        "Materialflusssystem",
+        "Telegramm",
+        "HU eintragen",
+        "Ausführen",
+        "Sollte Grün und Blau sein"
+      ]
+    },
+    {
+      "title": "Zeilen/Behälter",
+      "steps": [
+        "DA10",
+        "Status Lancierung 70 und < löschen",
+        "Layout von Sascha",
+        "Filter löschen"
+      ]
+    },
+    {
+      "title": "PK Fehler",
+      "steps": [
+        "PK Kommissionieren",
+        "DA30",
+        "Auf Ansicht Fehler wählen",
+        "Zurück auf Daten",
+        "HU eingeben F8 oder Ausführen",
+        "Zeile anklicken",
+        "Fehler anwählen",
+        "Zählen und Wert eingeben",
+        "Dann Abnahme HU scannen und Behälter auf Batch Platz"
+      ]
+    },
+    {
+      "title": "SCS Behälter rausfahren",
+      "steps": [
+        "WAMAS",
+        "Gerätesteuerung Verwalten",
+        "SCS Verwaltung",
+        "Aufträge bei Kommissionierplätzen",
+        "HU wählen",
+        "Im unteren Bereich TUB auswählen und dann F3 (Lagerbehälter stornieren)"
+      ]
+    },
+    {
+      "title": "MA letzter Pick",
+      "steps": [
+        "Lagerverwaltungsmonitor",
+        "Belege",
+        "Lageraufgabe",
+        "Suchfeld «Quittiert von» User eintragen",
+        "Feld Quittierzeitpunkt Datum eintragen",
+        "Ausführen und dann nach Zeit sortieren"
+      ]
+    },
+    {
+      "title": "Offene Bulk Aufträge",
+      "steps": [
+        "DA20",
+        "Ausführen"
+      ]
+    },
+    {
+      "title": "Fehler Sensoren",
+      "steps": [
+        "WAMAS",
+        "Statistik",
+        "Gerätesteuerungsstatistik",
+        "Stattionsstatistik"
+      ]
+    }
+  ]
+}
