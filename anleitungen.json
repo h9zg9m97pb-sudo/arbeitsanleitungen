@@ -109,6 +109,13 @@
         "Gerätesteuerungsstatistik",
         "Stattionsstatistik"
       ]
+    },
+    {
+      "title": "test",
+      "steps": [
+        "ghg",
+        "mmm"
+      ]
     }
   ]
 }
