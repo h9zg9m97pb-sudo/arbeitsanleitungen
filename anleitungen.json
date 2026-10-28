@@ -23,7 +23,7 @@
       "steps": [
         "IL60",
         "Nachschubtyp – WMSD",
-        "Ausführen (keine Haken)",
+        "Ausführen (keine Hacken)",
         "Layouts verwalten",
         "Layout auswählen",
         "SDA Nachschub"
@@ -111,10 +111,9 @@
       ]
     },
     {
-      "title": "test1",
+      "title": "test3",
       "steps": [
-        "kkk",
-        "111"
+        "rrr"
       ]
     }
   ]
